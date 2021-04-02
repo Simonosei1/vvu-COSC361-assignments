@@ -1,8 +1,8 @@
-vvu-COSC361-assignments
+# vvu-COSC361-assignments
 
-#**DATA STRUCTURES AND ALGORITHM ASSIGNMENTS.**
+# **DATA STRUCTURES AND ALGORITHM ASSIGNMENTS.**
 
-##This contains all the assignments. These are;
+## This contains all the assignments. These are;
 
 * Singly LinkedList
 * Doubly Linklist
