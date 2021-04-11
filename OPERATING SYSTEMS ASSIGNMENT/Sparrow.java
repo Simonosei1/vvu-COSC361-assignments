@@ -1,5 +1,11 @@
 import java.util.Scanner;
 public class Sparrow {
+    /* NAMES                ID
+   KUDOM SIMON OSEI     219CS01000035
+   OKOJOKWA FARIDA      219IT01000185
+   ASAMOAH FRANK        219CS01090028
+ */
+
     public static void main(String[] args) {
         int numberOfProcesses = 0, memory_Avail; //Holds number of processes and memory available
         int i;
